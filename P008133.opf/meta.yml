@@ -5,11 +5,13 @@ source_metadata:
   title: སྐྱེ་བ་སྔ་ཕྱིའི་རྣམ་གཞག་དང་ལུགས་གཉིས་གསལ་བའི་མེ་ལོང་།
   author: ''
   volumes:
-    d4a70c4014ce48dfa3c5da7a0a445e5b:
+    7e9b36eb9a2c4dc3958d80719705bb9c:
       image_group_id: I3CN4647
-      title: ''
+      title: Volume 1 of skye ba snga phyi'i rnam gzhag dang lugs gnyis gsal ba'i
+        me long /
       volume_number: 1
       total_pages: 416
+      base_file: v001.txt
 ebook_metadata:
   title: སྐྱེ་བ་སྔ་ཕྱིའི་རྣམ་གཞག་དང་ལུགས་གཉིས་གསལ་བའི་མེ་ལོང་།
   author: ''
