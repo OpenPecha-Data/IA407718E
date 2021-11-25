@@ -1,5 +1,7 @@
 id: P008133
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN4645
   title: སྐྱེ་བ་སྔ་ཕྱིའི་རྣམ་གཞག་དང་ལུགས་གཉིས་གསལ་བའི་མེ་ལོང་།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 416
       base_file: v001.txt
-ebook_metadata:
-  title: སྐྱེ་བ་སྔ་ཕྱིའི་རྣམ་གཞག་དང་ལུགས་གཉིས་གསལ་བའི་མེ་ལོང་།
-  author: ''
-  sku: P008133
-  cover: cover.jpg
-  layers:
-  - pagination
